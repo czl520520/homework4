@@ -1,4 +1,4 @@
-#homework_4
+#Homework_4
 
 Code repository for homework 4.
 Description and instructions can be found at:
